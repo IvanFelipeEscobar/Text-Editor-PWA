@@ -25,5 +25,6 @@
  ## Credit
  
  Text editor provided by edX Boot Camps LLC
+ 
  PWA functionality by [Ivam Felipe Escobar](https://github.com/IvanFelipeEscobar)
  
