@@ -94,7 +94,9 @@ h1 {
   background-color: #aeaeae;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
-
+#buttonInstall {
+  visibility: hidden
+}
 .btn:hover {
   background-color: #cecece;
   cursor: pointer;
